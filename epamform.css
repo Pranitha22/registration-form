@@ -1,0 +1,143 @@
+body{
+margin:0;
+padding:0;
+background:white;
+height:100vh;
+overflow:hidden;
+}
+
+.center{
+width:430px;
+margin:100px auto;
+position:relative;
+}
+.center .header{
+font-size:28px;
+font-weight:bold;
+color:white;
+padding:20px 0 30px 25px;
+background: #87CEFF;
+border-bottom:1px #98F5FF;
+border-radius:5px 5px 0 0;
+text-align:center;
+}
+.center form{
+position:absolute;
+width:100%;
+padding:50px 10px 0 30px;
+box-sizing:border-box;
+border:1px solid #98F5FF;
+border-radius:0 0 5px 5px;
+}
+form input{
+height:50px;
+width:90%;
+padding:0 10px;
+border-radius:3px;
+border:1px solid silver;
+font-size:18px;
+outline:none;
+}
+
+form input[type="password"]{
+margin-top:20px;
+margin-bottom:20px;
+}
+form i{
+position:absolute;
+font-size:25px;
+color:grey;
+margin:15px 0 0 -45px;
+}
+
+
+i.fa-lock{
+margin-top:35px;
+}
+
+
+.center .header2{
+font-size:20px;
+font-weight:bold;
+padding:20px 0 10px 5px;
+background: #87CEFF;
+color:white;
+border-bottom:1px #98F5FF;
+border-radius:5px 5px 0 0;
+text-align:center;
+margin-bottom:20px;
+}
+.center .register{
+margin-bottom:20px;
+padding:0 0 50px 5px;
+}
+.center .tab { 
+       display:inline-block; 
+       margin-left:40%; 
+       margin-top:20px;
+}
+.center .facebook{
+font-size:28px;
+font-weight:bold;
+color:white;
+padding:12px 0 10px 10px;
+background: #337FFF;
+border-bottom:1px #337FFF;
+border-radius:3px 5px 0 0;
+text-align:center;
+margin-bottom:10px;
+}
+
+
+.center .google{
+font-size:28px;
+font-weight:bold;
+padding:12px 0 10px 10px;
+color:white;
+background: #FF7133;
+border-bottom:1px #FF3333;
+border-radius:5px 5px 0 0;
+text-align:center;
+margin-bottom:10px;
+}
+
+.center .epam{
+font-size:28px;
+font-weight:bold;
+color:white;
+padding:12px 0 10px 10px;
+background: #79BA1B;
+border-bottom:1px #79BA1B;
+border-radius:5px 5px 0 0;
+text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
